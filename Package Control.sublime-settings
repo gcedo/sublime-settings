@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"FileSystem Autocompletion",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"JsFormat",
+		"Mocha Snippets",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Ruby Debugger",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Sublimerge Pro",
+		"Theme - Hero",
+		"Theme - SoDaReloaded",
+		"TrailingSpaces"
+	]
+}
